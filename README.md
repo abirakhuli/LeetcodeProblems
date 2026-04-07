@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
