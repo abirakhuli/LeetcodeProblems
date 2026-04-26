@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0217-contains-duplicate](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -22,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/abirakhuli/LeetcodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
